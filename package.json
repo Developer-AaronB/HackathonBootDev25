@@ -1,0 +1,15 @@
+{
+    "name": "pokemon-team-generator",
+    "version": "1.0.0",
+    "description": "Generate Pokemon teams based on opponent matchups",
+    "main": "server.ts",
+    "scripts": {
+        "start": "node server.ts",
+        "cli": "node src/cli/index.ts",
+        "dev": "nodemon server.ts"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
